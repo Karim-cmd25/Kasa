@@ -1,0 +1,29 @@
+/* src/styles/Error.scss */
+
+/* Style général pour la page d'erreur */
+.error-container {
+  text-align: center;
+  padding: 50px;
+}
+
+.error-container h1 {
+  font-size: 36px;
+  color: #ff4d4d; /* Couleur rouge pour attirer l'attention */
+}
+
+.error-container p {
+  font-size: 18px;
+  color: #666; /* Gris pour le texte supplémentaire */
+  margin-bottom: 20px;
+}
+
+.error-container a {
+  text-decoration: none;
+  color: #007bff; /* Couleur bleue pour le lien */
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.error-container a:hover {
+  color: #0056b3; /* Couleur du lien au survol */
+}
