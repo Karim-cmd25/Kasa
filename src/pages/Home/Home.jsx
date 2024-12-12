@@ -1,8 +1,8 @@
 // src/pages/Home.jsx
 
 import React from "react";
-import Banner from "../../Components/Banner"; // Assure-toi que ce composant existe
-import Cards from "../../Components/Cards"; // Assure-toi que ce composant existe
+import Banner from "../../Components/Banner";
+import Cards from "../../Components/Cards";
 
 const Home = () => {
   return (
